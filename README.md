@@ -1,2 +1,2 @@
-## Brain Computing Interfacing
+## Brain Computer Interfacing
 ### OpenBCI Ultracortex
