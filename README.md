@@ -1,1 +1,2 @@
-# Brain Computing Device
+## Brain Computing Interfacing
+### OpenBCI Ultracortex
