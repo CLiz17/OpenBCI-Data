@@ -1,2 +1,2 @@
-## Brain Computer Interfacing
-### OpenBCI Ultracortex
+## Brain Computer Interfacing (BCI) Data Collected 
+### using OpenBCI Ultracortex
